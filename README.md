@@ -4,7 +4,7 @@ To support our experiments, we constructed a custom synthetic dataset that refle
 This dataset was built using the **TransPose** dataset, which provides images and 3D models of transparent equipment and objects.  
 These 3D models were imported into **Unreal Engine** to generate a total of **4,350** paired RGB images and corresponding ground truth segmentation maps.
 
-The dataset is split into:
+Datasets are recommended for split:
 
 - **Train**: 3,045 images  
 - **Validation**: 652 images  
