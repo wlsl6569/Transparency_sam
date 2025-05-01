@@ -277,11 +277,12 @@ def evaluate_all(pred_dir, gt_dir):
     return results
 
 
-
-# 실행 예시
 if __name__ == "__main__":
-    pred_dir = "./vanillaSAM_pred_trans10k"
-    gt_dir = "./gt_trans10k"
+    input_dir = input("결과 디렉토리 이름을 입력하세요 (예: vanilla_0405): ")
+    
+    pred_dir = f"./{input_dir}/pred"
+    gt_dir = f"./{input_dir}/gt"
+    
     results = evaluate_all(pred_dir, gt_dir)
 
     print("Evaluation Results:")
