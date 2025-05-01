@@ -11,7 +11,7 @@ Datasets are recommended for split:
 - **Test**: 653 images
 
 📥 **Download the dataset**:  
-[Google Drive Link](https://drive.google.com/file/d/1k0yjpnDzNKcBmW-z1lpChnM80eWi2Mkt/view?usp=sharing)
+[Google Drive Link]([https://drive.google.com/file/d/1k0yjpnDzNKcBmW-z1lpChnM80eWi2Mkt/view?usp=sharing](https://drive.google.com/file/d/1go94wM4lS6exm_ljxhrxaTKpjjEY5Q4r/view?usp=sharing))
 
 ---
 
