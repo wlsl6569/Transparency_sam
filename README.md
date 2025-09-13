@@ -1,3 +1,9 @@
+
+
+
+<img width="692" height="902" alt="21" src="https://github.com/user-attachments/assets/10bb8692-cb88-491a-9e67-af6d1c015c2a" />
+
+
 # Transparency_sam
 
 To support our experiments, we constructed a custom synthetic dataset that reflects real-world scenarios by varying environments and viewing angles.  
